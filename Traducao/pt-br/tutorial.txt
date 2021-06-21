@@ -1,0 +1,41 @@
+ZERO É UM SIMPLES E ELEGANTE BRILHANDO A NEON E TOTALMENTE DE GRAÇA QUE IRA TE LEVAR A LOUCURA!
+
+Olá, Eu sou T.E.D (Teddybear Extraordinary Display), e serei seu anfitrião nesta incrível jornada.
+
+*Aparece o bloco +1
+
+OS CARAS AZUIS SÃO AS ADIÇÕES...
+
+*Aparece um bloco -1
+
+VEJA OS VERMELHOS SÃO SUBTRAÇÕES. VOCÊ PRECISA ARRASTAR UM SOBRE O OUTRO PARA PONTUAR...
+
+*Ensina a arrastar um bloco sobre o outro
+
+ENTÃO VOCÊ PONTUOU... VEJA, TAMBÉM CONSEGUIU UMA CONQUISTA
+
+*mensagem do achiev hello world
+
+VOCÊ PODE FUNDIR BLOCOS DA MESMA COR.
+
+*aparecem 2 +1, espera o jogador fazer isso
+
+ESSES CARAS SÃO MAIS TIMIDOS, OS VERDINHOS SÃO OS MULTIPLICADORES, FUNDA ELE AO OUTRO BLOCO E VEJA O RESULTADO...
+
+* aparece um x2, espera jogador fundir com +2
+
+VOCÊ PODE FAZER ISSO COM VERMELHOS TAMBÉM
+
+*repete o processo com -1, aparecem 2 -1 e depois um x2, bloqueia uso do +4
+
+OLHE VOCÊ TEM UM +4 E UM -4
+
+* cumpre a missão do 4
+
+VIU VOCÊ COMPLETOU UMA MISSÃO
+
+*acende a "hud"
+
+BEM AGORA QUE VOCÊ SABE TUDO VÁ E JOGUE...
+
+*fim tuto jogo fica normal

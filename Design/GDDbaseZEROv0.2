@@ -1,0 +1,184 @@
+Game Design ZERO v0.2
+André Tonelli 16/07/2015
+
+Introdução
+	
+	O jogo se chamará, ZERO uma vez que criar o numero 0 é seu objetivo. Além disso, para critérios de otimização de pesquisa, palavras como SAGA, ADVENTURE e HEROES são aceitas como complemento do nome.
+
+	O projeto, que será desenvolvido em Unity 5, tem como publico-alvo pessoas de todas as idades será desenvolvido para todas as plataformas web (Unity web player e WebGL) e dispositivos móveis ( na ordem, Android, Windows e iOs) com jogabilidade simples e conceitos matemáticos. A previsão de finalização é de 3 semanas.
+	
+	Em ZERO, o jogador é desafiado através de uma mecânica simples de fusão de blocos unida a conceitos básicos da matemática a cumprir missões e atingir conquistas. Para tal, ele deve fundir os blocos com valores positivos, negativos e multiplicações que aparecem para ele, a  fim de anula-los. Quando dois blocos se anulam, o jogador recebe a pontuação equivalente ao valor dos blocos. Tal processo se repete ao longo de uma série de missões e uma longa lista de conquistas, que prenderão a anteção do jogador.
+	
+Jogabilidade
+
+	Objetivo: O objetivo do jogo é obter pontuação ao fundir blocos positivos com blocos negativos, a  fim de anular eles, quando dois blocos se anulam, o jogador recebe a pontuação equivalente ao valor dos blocos.
+		Para aumentar sua pontuação o jogador pode fundir blocos de mesmo sinal a fim de aumentar seu valor.
+		Quando blocos de sinal e valor diferentes se fundem, um novo bloco com o resultado da operação é gerado.
+		O jogador é desafiado a cumprir missões e alcançar conquistas no jogo, mantendo assim seu interesse no jogo. Apesar de não ter um critério de derrota, o jogador muitas vezes pode dificultar seu próprio jogo, ao gerar blocos que nao ajudem em suas missões.
+		
+	Mecânicas: O jogo possui mecânicas bem simples e de fácil entendimento. Cada uma delas possuem os seguintes atributos:
+	Caixas: com valores e operadores, o elemento básico do jogo, as caixas aparecem de tempos em tempos no cenário, qando arrastadas de encontro à outras caixas, elas podem se anular gerando pontuação, ou gerar uma nova caixa resultante da operação entre as duas que foram fundidas. Possui as seguintes caracteríscas:
+		-valor numérico;
+		-operador;
+		-cor em relação ao operador;
+		-tamanho máximo para o valor;
+		-libera novas caixas, ou seja caixas com valores maiores, quando atingir um certo log N na base 2.
+			Ou seja quando o jogador faz 4 pontos a caixa com valor 2 é liberada, quando faz 8 a caixa com 3 e por assim em diante até a caixa com valor 9 (512 pontos).
+		-
+
+	Cenário: O cenário do jogo será bem simples e dividido em 2 áreas, um espaço escuro onde os blocos do jogador se encontrarão, e um espaço mais claro para informações, missões e conquistas. A quantidade máxima de blocos é delimitado pelo cenário.
+		-Quantidade máxima de blocos;
+		-Painel com notícias e com missões em aberto.
+
+	Placar: Apresenta a pontuação do jogador, quando o mesmo atinge o limite do placar, ele reinicia o contador, e acende um "led", indicando que ele já resetou a pontuação uma vez. Possui um visual "retro" baseado em relógios analógicos.
+		-Tamanho máximo;
+		-Leds;
+		-Botões de configuração e de conquistas ao lado.
+	
+	Fluxo do Jogo: O jogo fluirá de maneira simples aparecendo novos blocos na tela para que o jogador aumente os valores de seus blocos e consiga cumprir seus objetivos.
+		
+		A cada 5 segundos, inicialmente, ou a cada vez que pontua até o limite de blocos na tela além disso existe uma chance a princípio de 10%,de que depois de uma fusão spawne um novo bloco também. 
+		O jogador terá 3 missões em aberto por vez e a cada missão cumprida uma nova será liberada.
+		O jogo possui 42 achieviments para desafiar o jogador
+		Existem valores numéricos que são icônicos na cultura pop/nerd/geek/etc, quando o jogador criar um bloco com esse |valor| uma mensagem sobre sua referência aparecerá na tela	
+	
+Level Design
+	
+	Conquistas(Achievements): São os desafios do jogo, 42 ao todo. Podem envolver todas as mecânicas do jogo.
+	
+	N		Achivement						Descrição
+
+	1		Fuuuusão! Rá! Hello World!		Funda +1 ao +1.
+	2		3 é demais!						Zere um 3.
+	3		O número 23.						Crie o numero 23.
+	4		Sheldon Like!						Crie o numero 73.
+	5		Sem 100, 100 sem!				Zere um 100.
+	6		100 dobrar						Chegue a sem, sem usar x2.
+	7		300!								Crie o numero 200.
+	8		Xerxes								Zere 300.
+	9		Zero Absoluto						Crie o numero -273.
+	10		Error, page not found			Crie o numero 404.
+	11		The number of the beast		Crie o numero 666.
+	12		O número da perfeição			Crie o numero 777.
+	13		Menos mal							Crie o numero -666.
+	14		1k									Crie o numero 1000.
+	15		Matava Mil!						Zere um 1000.
+	16		1 Kilobyte							Crie o numero 1024.
+	17		Perdido							Crie 4, 8, 15, 16, 23 e 42 ao mesmo tempo.
+	18		Descobrimento do Brasil			Crie 2, 4 e 1500 ao mesmo tempo.
+	19		Voltando ao princípio				Crie 1 usando um 1000.
+	20		Mentira!							Crie 1, 4 e 1564 ao mesmo tempo.
+	21		100 dobrar x10					Crie 1000 sem usar x2.
+	22		Dia da HQ						Crie 30, 1 e 1869 ao mesmo tempo.
+	23		2048...							Crie 2048, mas não vença.
+	24		Proclamação da Republica			Crie 15, 11 e 1889 ao mesmo tempo.
+	25		Fim do Mundo?					Crie o numero 2012.
+	26		Back to the Future				Crie 5, 11 e 1955 ao mesmo tempo.
+	27		I wanna Rock						Crie 13, 7 e 1985 ao mesmo tempo.
+	28		Tantas Respostas					Crie 10 numeros 42 ao mesmo tempo.
+	29		Dia da Toalha						Crie 25, 05 e 2001 ao mesmo tempo.
+	30		Dia do Programador				Crie 13, 9 e 2015 ao mesmo tempo.
+	31		Back to the Future II			Crie 21, 10 2 2015 ao mesmo tempo.
+	32		Novo dia							Zere o numero 2359.
+	33		Over 9000							Crie um numero maior que 9 000.
+	34		Meio Milhão						Crie o numero 500 000.
+	35		Quem quer ser um milionario		Crie o numero 1 000 000.
+	36		1 Megabyte						Crie o numero 1 048 576.
+	37		Uiiii								Crie o numero 24 242 424.
+	38		Teste de paciência				Crie o numero 543 216 879.
+	39		Ao unfinito e...					Ultrapasse 700 000 000.
+	40		Eu sou o Máximo					Chegue a 1 00 000 000.
+	41		Challeng Accept					Zere 1 bilhão.
+	42		A RESPOSTA						Complete todos os desafios e libere a resposta.
+		
+	Missões: as missões são responsáveis por power-ups no jogo.
+
+		Aumentar o valor máximo de um bloco: Zerar a potencia de 2 equivalente, ou seja criar e fundir um +2^n com um -2^n = Blocos com valor n.
+
+		Diminuir o tempo de spawn: - .5s a cada casa decimal alcançada pelo maior bloco já criado. Menor tempo possível 1s.
+		
+		Bloco:		Tempo:
+		|10|			4.5s
+		|100|			4s
+		|1000|			3.5s
+		|10000|		3s
+		|100000|		2.5s
+		|1000000|		2s
+		|10000000|	1.5s
+		|100000000|	1s
+
+		Aumentar a chance de spawn ao unir 2 Blocos: +5% a cada casa decimal alcançada na pontuação. Máximo de 45%.
+
+		Pontos:		Porcentagem:
+		10				15%
+		100			20%
+		1000			25%
+		10000			30%
+		100000		35%
+		1000000		40%
+		10000000		45%
+		
+		Aumentar a chance de spawn de multiplicação: Aumenta em 1% a cada casa decimal alcançada pelo maior bloco de multiplicação já criado. Máximo de 15%.
+
+		Aumentar o valor do máximo de um Bloco multiplicador: A cada resetada de placar o valor aumenta em 1.
+	
+Gráficos
+	Conceito: O jogo terá uma identidade visual bem simplificada, com fundo escuro e blocos em cores que indiquem bem o tipo de operação que fazem. Além disso o espaço para descrição das missões e comentários do jogo será um pouco mais claro. O jogo terá suas interfaces simplificadas e será jogado em portrait.
+	
+		Referencias:
+		2048 GRADE DE NUMEROS
+		CowEvolution CAIXA DE MENSAGEM E INTERFACES
+		Tron CORES e ILUMINAÇÂO
+		
+
+Audio:
+	Sem musica.
+	Sons:
+		Blocos se fundindo
+		Pontuar
+		Apertar botões
+		Missão cumprida
+		"Achievement Unlock"
+
+Interfaces:
+	O jogo terá as seguintes telas de interação com o jogador:
+		Tela inícial
+			Inícia jogo
+			Configurações (pop-up)
+				Tirar e colocar som
+			Conquistas (achieviments / pop-up)
+			Sair
+		Tela de jogo
+			Placar (topo centro)
+			Botão Menu (Baixo Esquerdo)
+			Menu(pop-up, não pausa jogo):
+				Achieviments
+				Painel de Missão
+				Tirar som
+				Voltar
+				sair
+			Tela jogo (meio e metade do fundo)
+			Notícias (Parte de baixo do fundo)
+		
+	Interações com o jogador: Todas as interfaces do jogo são ativadas ao toque do jogador. O jogador aprende o como jogar a partir dos 2 primeiros blocos que aparecem no jogo. Um +1 e um -1, o fato de um bloco deve ser arrastado para o outro fica obvio ao jogador e quando eles se fundem o jogador recebe seu primeiro ponto e cumpre a primeira missão(ganhar 1 ponto) e conquista(cumprir uma missão) por fim recebendo uma piada sobre o numero 1 em notícias.
+	
+Controles:
+	O jogo é controlado via touch.
+	Ao clicar em botões abre sua tela.
+	Ao arrastar um bloco leva ele até o local onde for solto.
+		Blocos quando arrastados deixam um pequeno rastro.
+	
+Desenvolvimento
+	Utilizando Unity 5
+	Linguagem C#
+	Componentes
+		Telas
+		Blocos
+			Valor
+			Operações
+		Pontuação
+			Valor de Reset
+			Luzes de finalização
+		Interface
+		Musica
+		Sprites

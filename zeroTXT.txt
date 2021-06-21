@@ -1,0 +1,41 @@
+ZERO is an always free, simple, neon and elegant game that'll blow your mind!
+
+hello I am T.E.D.I or Teddybear Extra Dinamic Interface, I will be your host in this explendous game. This guys are blocks
+
+*Aparece o bloco +1
+
+the blue ones are the Plus ones...
+
+*Aparece um bloco -1
+
+See the red guys are te Minus. You need to slide one over the other in order to score...
+
+*Ensina a arrastar um bloco sobre o outro
+
+Then you score... You also complete an achieviment
+
+*mensagem do achiev hello world
+
+You can join blocks of the same color
+
+*aparecem 2 +1, espera o jogador fazer isso
+
+And there is the shy ones, this green guys are multipliers join it with the blue guy
+
+* aparece um x2, espera jogador fundir com +2
+
+Now you can do the same with this red guys and that green one...
+
+*repete o processo com -1, aparecem 2 -1 e depois um x2, bloqueia uso do +4
+
+Hey you have an +4 and a -4 let's get that score...
+
+* cumpre a missão do 4
+
+See you acomplished a mission, you can see your missions and achivements here
+
+*acende a "hud"
+
+Ok go and play you know everything now....
+
+*fim tuto jogo fica normal

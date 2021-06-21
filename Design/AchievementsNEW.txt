@@ -1,0 +1,57 @@
+Achievements ZERO
+
+Os achievements ou conquistas são desafios ao jogador.
+
+*Vários blocos X Y Z A B... (sinais usados à vontade)
+*Resetar Placar X (quantidade de resets)
+*Bloco sem multiplicar X (pode ser + ou - X, tanto faz)
+*Bloco maior que X (ou menor que, caso seja negativo)
+*Bloco X (+X ou -X, exato)
+*Placar mínimo X (maior ou igual)
+*Placar Exato X
+*Fundir +X com -Y (ou -X com +Y, sendo que podem ser iguais)
+
+N		Achivement						Descrição
+
+1		Hello World!						Faça seu primeiro ponto.
+2		Nota 10.							Funda um +10 a um -10.
+3		Shelly Likes!						Faça exatamente 73 pontos.
+4		Sem 100, 100 sem!				Funda um +100 a um -100.
+5		100 dobrar!						Crie o bloco 100 sem usar um multiplicador.
+6		This is Sparta!					Crie o bloco +300.
+7		This was Sparta!					Funda um +300 com um -300.
+8		Zero Absoluto!					Crie o bloco -273.
+9		Error, page not found!			Faça exatamente 404 pontos.
+10		Menos mal!							Crie o bloco -666.
+11		Matarra Mil!						Funda +1000 a -1000.
+12		1 Kilobyte de pura maldade.		Crie o numero 1024.
+13		Quebrou a barreira do som.		Zere 1224.
+14		Acabou o Mundo?					Crie o bloco 2012.
+15		Você esta perdido?				Crie 4, 8, 15, 16, 23 e 42 ao mesmo tempo.
+16		2048 sem vencer.					Funda +2048 a -2048.
+17		De volta para o futuro.			Crie 5, 11 e 1955 ao mesmo tempo.
+18		Em busca da resposta			Acumule 42 minutos jogados.
+19		I wanna Rock.						Crie 13, 7 e 1985 ao mesmo tempo.
+20		São tantas Respostas.			Crie 10 blocos 42 ao mesmo tempo.
+21		Ao dia da Toalha.				Crie 25, 05 e 2001 ao mesmo tempo.
+22		Um novo dia.						Funda +2359 a -2359.
+23		Over 9000.						Crie um bloco maior que 9 000.
+24		Quem quer ser um milionário.	Faça exatamente 1 000 000 de pontos.
+25		1 Megabyte.						Crie o bloco 1 048 576.
+26		Acabou os Dinossauros			Funda +65 000 a -65 000.
+27		Ultrapasse a Velocidade da luz.	Faça mais de 299 792 458 pontos.
+28		Teste de paciência				Crie o bloco 123 456 879.
+29		Ao infinito e nem tão além		Crie o bloco 1 bilhão.
+30		Malditos painéis Limitados!		Reset o placar.
+31		Alcançando o jogo mais vendido.	Faça exatamente 70 000	de pontos.
+32		A 1 lua de distancia.				Faça exatamente 384 400 pontos.
+33		Tantas vitorias 2048.			Crie 10 blocos 2048.		
+34		Infinito tende a 1.				Funda 1bi a 999 999 999 para que ele vire 1.
+35		Você esta jogando demais.		Acumule 10 horas jogadas.			
+36		O placar irá resetar.				Faça exatamente 999 999 999 pontos.
+37		Numero 23.						Reset o placar 23 vezes.
+38		Challenge Accepted.				Crie o bloco 999 999 999 sem usar x.
+39		Muito perto do Sol.				Faça exatamente 149 600 000 pontos.
+40		Eu sou o Máximo.					Faça exatamente 999 999 999 pontos.	
+41		Alcançou a resposta.				Reset o placar 42 vezes.		
+42		You're the champion my friend.	Complete todos os desafios.

@@ -1,0 +1,210 @@
+1
+Fuuuusão! Rá!
+Funda +1 ao +1.
+f
+1 1
+2
+3 é demais!			            
+Zere um 3.
+z
+3 -3
+3		
+O número 23.		            
+Crie o numero 23.
+c
+23
+4		
+Sheldon Like!		            
+Crie o numero 73.
+c
+73
+5		
+Sem 100, 100 sem!	            
+Zere um 100.
+z
+100 -100
+6		
+100 dobrar			            
+Chegue a sem, sem usar x2.
+x
+100
+7		
+300!				            
+Crie o numero 300.
+c
+300
+8		
+Xerxes				            
+Zere 300.
+z
+300 -300
+9		
+Zero Absoluto			        
+Crie o numero -273.
+c
+-273
+10		
+Error, page not found	        
+Crie o numero 404.
+c
+404
+11		
+The number of the beast	        
+Crie o numero 666.
+c
+666
+12		
+O número da perfeição	        
+Crie o numero 777.
+c
+777
+13		
+Menos mal			            
+Crie o numero -666.
+c
+-666
+14		
+1k				                
+Crie o numero 1000.
+c
+1000
+15		
+Matava Mil!		               
+Zere um 1000.
+z
+1000 -1000
+16		
+1 Kilobyte		                
+Crie o numero 1024.
+c
+1024
+17		
+Perdido				            
+Crie 4, 8, 15, 16, 23 e 42 ao mesmo tempo.
+c
+4 8 15 16 23 42
+18		
+Descobrimento do Brasil	        
+Crie 2, 4 e 1500 ao mesmo tempo.
+c
+2 4 1500
+19		
+Voltando ao princípio	        
+Crie 1 usando um 1000.
+n
+1 1000
+20		
+Mentira!			           
+Crie 1, 4 e 1564 ao mesmo tempo.
+c
+1 4 1564
+21		
+100 dobrar x10			        
+Crie 1000 sem usar x2.
+x
+1000
+22		
+Dia da HQ			            
+Crie 30, 1 e 1869 ao mesmo tempo.
+c
+30 1 1869
+23		
+2048...				            
+Crie 2048, mas não vença.
+c
+2048
+24		
+Proclamação da Republica        
+Crie 15, 11 e 1889 ao mesmo tempo.
+c
+15 11 1889
+25		
+Fim do Mundo?			        
+Crie o numero 2012.
+c
+2012
+26		
+Back to the Future		        
+Crie 5, 11 e 1955 ao mesmo tempo.
+c
+5 11 1955
+27		
+I wanna Rock			        
+Crie 13, 7 e 1985 ao mesmo tempo.
+c
+13 7 1985
+28		
+Tantas Respostas		       
+Crie 10 numeros 42 ao mesmo tempo.
+v
+42 10
+29		
+Dia da Toalha			        
+Crie 25, 05 e 2001 ao mesmo tempo.
+c
+25 5 2001
+30		
+Dia do Programador		        
+Crie 13, 9 e 2015 ao mesmo tempo.
+c
+13 9 2015
+31		
+Back to the Future II	        
+Crie 21, 10 2 2015 ao mesmo tempo.
+c
+21 10 2 2015
+32		
+Novo dia			           
+Zere o numero 2359.
+z
+2359 -2359
+33		
+Over 9000			            
+Crie um numero maior que 9 000.
+u
+9000
+34		
+Meio Milhão			            
+Crie o numero 500 000.
+c
+500000
+35		
+Quem quer ser um milionario	    
+Crie o numero 1 000 000.
+c
+1000000
+36		
+1 Megabyte			            
+Crie o numero 1 048 576.
+c
+1048576
+37		
+Uiiii				            
+Crie o numero 24 242 424.
+c
+24242424
+38		
+Teste de paciência		        
+Crie o numero 543 216 879.
+c
+543216879
+39		
+Ao unfinito e...		        
+Ultrapasse 700 000 000.
+u
+700000000
+40		
+Eu sou o Máximo			        
+Chegue a 1 00 000 000.
+u
+100000000
+41		
+Challeng Accept			        
+Zere 1 bilhão.
+z
+1000000000000 -1000000000000
+42		
+A RESPOSTA			            
+Complete todos os desafios e libere a resposta.
+t
+0

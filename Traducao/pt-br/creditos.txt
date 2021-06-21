@@ -1,0 +1,15 @@
+Credits
+
+André Tonelli:		Produtor e Game Designer
+
+Davi Amancio:		Arte conceitual e ingame.
+
+Fabrini Andrade:	Desenvolvedor de marketing e efeitos sonoros.
+
+Jeferson Tomazella:	Programador e musico.
+
+Vinícius Illidio:	Programador
+
+Wilson Camilo:		Desenvolvedor de testes e level designer.
+
+Nossos agradecimentos especiais a nossa orientadora Doutora Ana Melchiori, aos outros membros do NINJA e ao amigos que experimentaram nosso jogo pela ajuda, os testes a as otimas ideias.

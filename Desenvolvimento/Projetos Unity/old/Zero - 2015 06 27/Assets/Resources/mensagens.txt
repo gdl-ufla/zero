@@ -1,0 +1,2 @@
+<color=#c05436ff>Não cabem mais blocos no cenário!</color>
+Você pode arrastar um bloco pra cima de outro!

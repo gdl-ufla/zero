@@ -1,0 +1,10 @@
+Credits
+
+André Tonelli:		Production and game design.
+Davi Amancio:		Concept and ingame art.
+Fabrini Andrade:	Marketing, sound effects.
+Jeferson Tomazella:	Programming and music.
+Vinícius Illidio:	Programming.
+Wilson Camilo:		Test development and level design.
+
+Special thanks for our mentor Doctor Ana Melchiori, the others member of the NINJA team and all friends who tried our game for the help, test and great suggestions.

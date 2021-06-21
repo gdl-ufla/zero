@@ -1,0 +1,210 @@
+Hello World!
+Faça seu primeiro ponto.
+fundir
+1 -1
+5
+3 é demais!
+Faça 3 pontos.
+placar
+3
+5
+O número 23.
+Crie o numero 23.
+bloco
+23
+5
+Sheldon Like!
+Crie o numero 73.
+bloco
+73
+5
+Sem 100, 100 sem!
+Zere um 100.
+fundir
+100 -100
+5
+100 dobrar
+Chegue a cem, sem usar multiplicador.
+naomultiplicar
+100
+5
+300!
+Crie o numero 200.
+bloco
+200
+5
+This was Sparta
+Zere 300.
+fundir
+300 -300
+5
+Zero Absoluto
+Crie o numero -273.
+bloco
+-273
+5
+Error, page not found
+Crie o numero 404.
+bloco
+404
+5
+The number of the beast
+Crie o numero 666.
+bloco
+666
+5
+O número da perfeição
+Crie o numero 777.
+bloco
+777
+5
+Menos mal
+Crie o numero -666.
+bloco
+-666
+5
+1k
+Crie o numero 1000.
+bloco
+1000
+5
+Matava Mil!
+Zere um 1000.
+fundir
+1000 -1000
+5
+1 Kilobyte
+Crie o numero 1024.
+bloco
+1024
+5
+Perdido
+Crie 4, 8, 15, 16, 23 e 42 ao mesmo tempo.
+varios
+4 8 15 16 23 42
+5
+Descobrimento do Brasil
+Crie 2, 4 e 1500 ao mesmo tempo.
+varios
+2 4 1500
+5
+Voltando ao princípio
+Crie 1 usando um 1000.
+fundir
+1000 -999
+5
+Mentira!
+Crie 1, 4 e 1564 ao mesmo tempo.
+varios
+1 4 1564
+5
+100 dobrar x10
+Crie 1000 sem usar x2.
+naomultiplicar
+1000
+5
+Dia da HQ
+Crie 30, 1 e 1869 ao mesmo tempo.
+varios
+30 1 1869
+5
+2048...
+Crie 2048, mas não vença.
+bloco
+2048
+5
+Proclamação da Republica
+Crie 15, 11 e 1889 ao mesmo tempo.
+varios
+15 11 1889
+5
+Fim do Mundo?
+Crie o numero 2012.
+bloco
+2012
+5
+Back to the Future
+Crie 5, 11 e 1955 ao mesmo tempo.
+varios
+5 11 1955
+5
+I wanna Rock
+Crie 13, 7 e 1985 ao mesmo tempo.
+varios
+13 7 1985
+5
+Tantas Respostas
+Crie 10 numeros 42 ao mesmo tempo.
+varios
+42 42 42 42 42 42 42 42 42 42
+5
+Dia da Toalha
+Crie 25, 05 e 2001 ao mesmo tempo.
+varios
+25 05 2001
+5
+Dia do Programador
+Crie 13, 9 e 2015 ao mesmo tempo.
+varios
+13 9 2015
+5
+Back to the Future II
+Crie 21, 10 2 2015 ao mesmo tempo.
+varios
+21 10 2 2015
+5
+Novo dia
+Zere o numero 2359.
+fundir
+2359 -2359
+5
+Over 9000
+Crie um numero maior que 9 000.
+maiorque
+9000
+5
+Meio Milhão
+Crie o numero 500 000.
+fundir
+500000 -500000
+5
+Quem quer ser um milionario
+Crie o numero 1 000 000.
+bloco
+1000000
+5
+1 Megabyte
+Crie o numero 1 048 576.
+bloco
+1048576
+5
+Uiiii
+Crie o numero 24 242 424.
+bloco
+24242424
+5
+Teste de paciência
+Crie o numero 543 216 879.
+bloco
+543216879
+5
+Ao unfinito e...
+Ultrapasse 700 000 000.
+placar
+700000000
+5
+Eu sou o Máximo
+Zere 999 999 999.
+fundir
+999999999 -999999999
+5
+Challeng Accept
+Crie o bloco sem usar x 999 999 999.
+naomultiplicar
+999999999
+5
+A RESPOSTA
+Complete todos os desafios e libere a resposta.
+resposta
+1
+42

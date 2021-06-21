@@ -1,0 +1,46 @@
+N		Achivement						Descrição
+
+1		Hello World!						Faça seu primeiro ponto.
+2		3 é demais!						Zere um 3.
+3		Número 23.						Resete o placar 23 vezes.
+4		Sheldon Likes!						Crie o numero 73.
+5		Sem 100, 100 sem!				Zere um 100.
+6		100 dobrar!						Chegue a sem, sem usar x2.
+7		This is Sparta!					Crie o numero 300.
+8		This was Sparta!					Zere 300.
+9		Zero Absoluto!					Crie o numero -273.
+10		Error, page not found!			Crie o numero 404.
+11		//O numero das besta.				Crie o numero 666.
+12		//Perfeito!							Crie o numero 777.
+13		Menos mal!							Zere o numero 666.
+14		//Mil!!								Crie o numero 1000.
+15		Eu Matarra Mil!					Zere um 1000.
+16		1 Kilobyte de pura maldade.		Crie o numero 1024.
+17		Perdido.							Crie 4, 8, 15, 16, 23 e 42 ao mesmo tempo.
+//18		Sem respostas.					Zere um 42.
+19		Voltando ao princípio.				Crie 1 usando um 1000.
+20		Mentira!							Crie 1, 4 e 1564 ao mesmo tempo.
+21		100 dobrar ao quadrado			Crie 10000 sem usar x2.
+22		O dia da HQ!						Crie 30, 1 e 1869 ao mesmo tempo.
+23		2048...							Crie 2048, mas não vença.
+24		Completou a pokedex.				Zere o numero 151.
+25		Acabei com o Mundo.				Crie o numero 2012.
+26		De volta para o futuro.			Crie 5, 11 e 1955 ao mesmo tempo.
+27		I wanna Rock.						Crie 13, 7 e 1985 ao mesmo tempo.
+28		São tantas Respostas.			Crie 10 numeros 42 ao mesmo tempo.
+29		Ao dia da Toalha.				Crie 25, 05 e 2001 ao mesmo tempo.
+30		Feliz dia do Programador.		Crie 13, 9 e 2015 ao mesmo tempo.
+31		//Quebrou a barreira do som.	Zere 1224.							
+32		Um novo dia						Zere o numero 2359.
+33		Over 9000							Crie um numero maior que 9 000.
+34		Quem quer ser um milionário.	Crie o numero 1 000 000.
+35		1 Megabyte.						Crie o numero 1 048 576.
+36		Ultrapasse a Velocidade da luz.	Faça mais de 299 792 458 pontos.
+37		Teste de paciência				Crie o numero 123 456 879.
+38		Ao unfinito e nem tão além		Crie o bloco 1 bilhão.
+39		Malditos painéis Limitados!		Resete o placar.
+40		Eu sou o Máximo.					Zere 999 999 999.
+41		Challeng Accepted.				Crie o bloco sem usar x 999 999 999.
+42		You're the champion my friend.	Complete todos os desafios e libere a resposta.
+
+alcançou a resposta : reste o placar 42 vezes

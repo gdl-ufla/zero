@@ -1,0 +1,5 @@
+<color=#c05436ff>Não cabem mais blocos no cenário, junte alguns.</color>
+
+Parabéns, você zerou o placar! Continue jogando...
+
+Você pode arrastar um bloco pra cima de outro!
